@@ -1,38 +1,25 @@
-# 👋 Hello, I'm Esteban
+# 👋 Hi, I'm Esteban!
 
-## About Me
-I'm a passionate Full Stack Developer with experience in building web applications using modern technologies. I enjoy solving complex problems and continuously learning new skills to improve my craft.
+👨🏻‍💻 I'm a Full Stack Developer with experience in building web applications using modern technologies.
 
-## Skills
-### Front-End
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Next,Material UI, Bootstrap, SASS
+🕵️‍♂️ I enjoy solving complex problems and continuously learning new skills to improve my craft.
 
-### Back-End
-- **Languages:** Node.js, Python, C++
-- **Frameworks:** Express.js, Nest Js, Jest
+### 💻 Tech stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,nest,nodejs,express,mysql,python,prisma,github,mongo,docker)](https://skillicons.dev)
 
-### Database
-- **Relational:** MySQL, PostgreSQL, SQL Server, SQLite
-- **NoSQL:** MongoDB
-
-### Tools & Platforms
-- **Version Control:** Git, GitHub
-- **CI/CD:**  GitHub Actions
-- **Containerization:** Docker
-
-## Projects
-### [Free Sin Gluten](https://github.com/MrEsteban1/Free_sin_gluten)
+### 📝 Projects
+#### [Free Sin Gluten](https://github.com/MrEsteban1/Free_sin_gluten)
 E-commerce for Fluten Free food. It was built with React, Firebase and Spoonacular API.
 
-### [Tienda de Mates](https://github.com/MrEsteban1/Tienda_de_Mates)
+#### [Tienda de Mates](https://github.com/MrEsteban1/Tienda_de_Mates)
 E-commerce for Argentinian "Mates". For development, I used only html and css.
 
-## Contact
+### 📫 Contact
 - **LinkedIn:** [Esteban Gonzalez](https://www.linkedin.com/in/esteban-gonzalez-alvarez/)
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi!
 
 ---
 
-### Thank you for visiting my profile! 😄
+#### Thank you for visiting my profile! 😄
