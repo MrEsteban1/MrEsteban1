@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello, I'm Esteban
 
-<!--
-**MrEsteban1/MrEsteban1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Full Stack Developer with experience in building web applications using modern technologies. I enjoy solving complex problems and continuously learning new skills to improve my craft.
 
-Here are some ideas to get you started:
+## Skills
+### Front-End
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Next,Material UI, Bootstrap, SASS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Back-End
+- **Languages:** Node.js, Python, C++
+- **Frameworks:** Express.js, Nest Js, Jest
+
+### Database
+- **Relational:** MySQL, PostgreSQL, SQL Server, SQLite
+- **NoSQL:** MongoDB
+
+### Tools & Platforms
+- **Version Control:** Git, GitHub
+- **CI/CD:**  GitHub Actions
+- **Containerization:** Docker
+
+## Projects
+### [Free Sin Gluten](https://github.com/MrEsteban1/Free_sin_gluten)
+E-commerce for Fluten Free food. It was built with React, Firebase and Spoonacular API.
+
+### [Tienda de Mates](https://github.com/MrEsteban1/Tienda_de_Mates)
+E-commerce for Argentinian "Mates". For development, I used only html and css.
+
+## Contact
+- **LinkedIn:** [Esteban Gonzalez](https://www.linkedin.com/in/esteban-gonzalez-alvarez/)
+
+Feel free to reach out if you want to collaborate on a project or just want to say hi!
+
+---
+
+### Thank you for visiting my profile! 😄
