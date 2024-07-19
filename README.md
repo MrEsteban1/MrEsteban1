@@ -6,7 +6,7 @@
 
 ### 💻 Tech stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,react,next,nest,nodejs,express,mysql,python,prisma,github,mongo,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,typescript,react,next,nest,nodejs,express,mysql,python,prisma,github,mongo,docker)](https://skillicons.dev)
 
 ### 📝 Projects
 #### [Free Sin Gluten](https://github.com/MrEsteban1/Free_sin_gluten)
